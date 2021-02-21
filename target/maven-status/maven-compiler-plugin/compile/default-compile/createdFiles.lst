@@ -1,0 +1,9 @@
+com\farah\persistence\dao\ProduitRepository.class
+com\farah\spring\SecurityConfiguration.class
+com\farah\web\controller\IndexController.class
+com\farah\spring\MvcConfig.class
+com\farah\spring\AppConfig.class
+com\farah\spring\PersistenceJPAConfig.class
+com\farah\service\ProduitService.class
+com\farah\persistence\model\Produit.class
+com\farah\GestionProduitsApplication.class
